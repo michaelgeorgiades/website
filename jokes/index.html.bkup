@@ -1,0 +1,277 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+  <title>Michael Georgiades - One Liners, Tweets, Puns and Status Updates</title>
+<meta name="keywords" content="Michael Georgiades, Michael, Georgiades, Funny Status Updates, jokes, funny, oneliners, one-liners, one liners, Facebook Status">
+<meta name="description" content="The Homepage of Michael Georgiades. Funny One Liners and Facebook Status Updates">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="js/jquery.readmore.js"></script>
+  <script type="text/javascript">
+    $(function() {
+      $("#lava_menu").lavaLamp({
+        fx: "backout",
+        speed: 700
+      });
+    });
+  </script>
+    <script type="text/javascript" src="js/jquery.nivo.slider.pack.js"></script>
+    <script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoSlider();
+    });
+    </script>
+
+</head>
+
+<body>
+  <div id="main">	
+	<div id="menubar">
+      <ul class="lavaLampWithImage" id="lava_menu">
+        <li class="current"><a href="index.html">Home</a></li>
+        <!--<li><a href="ourwork.html">Our Work</a></li>
+        <li><a href="testimonials.html">Testimonials</a></li>
+        <li><a href="projects.html">Projects</a></li>-->
+        <li><a href="contact.html">Contact Us</a></li>
+      </ul>
+	</div><!--close menubar-->	    
+	<div id="site_content">        	  
+	  <div id="header"> 
+        <div id="header_name"> 	  
+          <h1>Funny <span>Shit</span></h1>
+        </div><!--close header_name-->	
+        <div id="header_slogan"> 		
+	      <h2>One Liners, Puns, Tweets and Status Updates</h2>
+		 </div><!--close header_slogan-->	
+      </div><!--close header-->	
+	  <div id="banner_image">
+	    <div id="slider-wrapper">        
+          <div id="slider" class="nivoSlider">
+            <img src="images/slide1.jpg" alt="" />
+            <img src="images/slide2.jpg" alt="" />
+		  </div>
+		</div><!--close slider-wrapper-->
+	  </div><!--close banner_image-->			  
+      <div id="content">
+        <div class="content_item">
+  <h1>Laughter. (n) When a simle has an orgasm</h1><p><p>
+<div>
+    <article>
+        <input type="checkbox" id="read_more1" role="button"/>
+        <label for="read_more1" onclick=""><span>Read More</span><span>Hide</span></label>     
+        <section>
+            <p>Vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id </p>
+        </section>    
+        <section>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est</p>
+        </section>
+    </article>
+</div>
+
+<div>
+    <article>
+        <input type="checkbox" id="read_more2" role="button"/>
+        <label for="read_more2" onclick=""><span>Read More</span><span>Hide</span></label>     
+        <section>
+            <p>Vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id </p>
+        </section>    
+        <section>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est</p>
+        </section>
+    </article>
+</div>
+		</div><!--close content_item-->	
+	      
+		<div class="sidebar_container">   		  
+		  <div class="sidebar">
+            <div class="sidebar_item">
+                <h2>Visitors</h2>
+			    <p><div align="center"><img src="/cgi-sys/Count.cgi?df=michaeys-ZPfllQN%24fabW3ZJNE1a.ENmGwptqt0&dd=B&ft=0&comma=1"></div></p>
+              </div><!--close sidebar_item--> 
+          </div><!--close sidebar-->     		
+		  <div class="sidebar">
+            <div class="sidebar_item">
+              <h2>Buy Stuff</h2>
+<script type="text/javascript">
+google_ad_client = "ca-pub-2281614005356301";
+/* Advert */
+google_ad_slot = "6273808443";
+google_ad_width = 250;
+google_ad_height = 250;
+</script>
+		<script type="text/javascript"
+		src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+		</script><br><br>
+            </div><!--close sidebar_item--> 
+          </div><!--close sidebar-->  
+
+		  <div class="sidebar">
+            <div class="sidebar_item">
+              <h2>Quote of the Day</h2>
+<script type="text/javascript" src="http://www.brainyquote.com/link/quotebr.js"></script></p>
+            </div><!--close sidebar_item--> 
+          </div><!--close sidebar-->  
+
+		  <div class="sidebar">
+            <div class="sidebar_item">
+              <h2>Links</h2>
+					<ul>
+					<li><a href="http://www.cherishyourself.co.za" title="Cherish Spa - Westville" target="blank">Cherish Spa</a></li>
+					<li><a href="http://www.becauseican.co.za" title="Briget Garvin's Blog" target="blank">Because I Can</a></li>
+					<li><a href="http://www.djbenny.co.za" title="Top DJ in KZN" target="blank">DJ Benny</a></li>
+					<li><a href="http://www.insult-generator.org" title="Insult Generator" target="blank">Insult Generator</a></li>
+                    <li><a href="http://www.ccac.co.za" title="Corporate Chocolates" target="blank">Chocolate Stuff</a></li>
+					</ul>
+            </div><!--close sidebar_item--> 
+          </div><!--close sidebar-->  
+
+		  <div class="sidebar">
+      <div class="sidebar_item">
+              <h2>Why So Serious</h2>
+  <div id="cloud">
+	<span>joking</span>
+	<span>dizzy</span>
+	<span>capricious</span>
+	<span>relaxing</span>
+	<span>a ball</span>	
+	<span>witty</span>
+	<span>side-splitting</span>
+	<span>mirthful</span>
+	<span>impressive</span>
+	<span>pleasurable</span>
+	<span>jocular</span>
+	<span>thrilling</span>
+	<span>enticing</span>
+	<span>engrossing</span>
+	<span>joshing</span>
+	<span>dippy</span>
+	<span>jolly</span>
+	<span>fun</span>
+	<span>hilarious</span>
+	<span>merry</span>
+	<span>stimulating</span>
+	<span>whimsical</span>
+	<span>ironic</span>
+	<span>priceless</span>
+	<span>gelastic</span>
+	<span>humorous</span>
+	<span>clever</span>
+	<span>waggish</span>
+	<span>scream</span>
+	<span>striking</span>
+	<span>hysterical</span>
+	<span>flaky</span>
+	<span>nonsensical</span>
+	<span>riot</span>
+	<span>enthralling</span>
+	<span>batty</span>
+	<span>a gass</span>
+	<span>slapstick</span>
+	<span>good-humored</span>
+	<span>captivating</span>
+	<span>playful</span>
+	<span>piquant</span>
+	<span>goofy</span>
+	<span>off the wall</span>
+	<span>lively</span>
+	<span>stirring</span>
+	<span>stupid</span>
+	<span>wacky</span>
+	<span>freaky</span>
+	<span>interesting</span>
+	<span>preposterous</span>
+	<span>screaming</span>
+	<span>killer</span>
+	<span>ridiculous</span>
+	<span>sportive</span>
+	<span>crazy</span>
+	<span>amusing</span>
+	<span>cheerful</span>
+	<span>comical</span>
+	<span>engaging</span>
+	<span>entertaining</span>
+	<span>funny</span>
+	<span>ludicrous</span>
+	<span>silly</span>
+	<span>goofus</span>
+	<span>delightful</span>
+	<span>affecting</span>
+	<span>light</span>
+	<span>boffo</span>
+	<span>camp</span>
+	<span>charming</span>
+	<span>cheering</span>
+	<span>comic</span>
+	<span>compelling</span>
+	<span>derisory</span>
+	<span>diverting</span>
+	<span>droll</span>
+	<span>enchanting</span>
+	<span>pleasant</span>
+	<span>enjoyable</span>
+	<span>schtick</span>
+	<span>entrancing</span>
+	<span>exciting</span>
+	<span>fascinating</span>
+	<span>for grins</span>
+	<span>antic</span>
+	<span>gay</span>
+	<span>blithe</span>
+	<span>gump</span>
+	<span>horse's tail</span>
+	<span>humdinger</span>
+	<span>inspiring</span>
+	<span>jerky</span>
+	<span>jocose</span>
+	<span>restorative</span>
+	<span>knee-slapper</span>
+	<span>laughable</span>
+	<span>absorbing</span>
+	<span>loony</span>
+	<span>moving</span>
+	<span>nutty</span>
+	<span>outrageous</span>
+	<span>farcical</span>
+	<span>poignant</span>
+	<span>provocative</span>
+	<span>recreative</span>
+	<span>rich</span>
+	<span>riotous</span>
+	<span>risible</span>
+	<span>rousing</span>
+	<span>screwy</span>
+	</div>
+            </div><!--close sidebar_item--> 
+          </div><!--close sidebar-->  
+        </div><!--close sidebar_container-->	
+
+			<script type="text/javascript">
+			FONT_UNIT = 'px'
+			MIN_FONT_SIZE = 6
+			MAX_FONT_SIZE = 18
+			function getSize () 
+      {
+			return ((Math.round (Math.random() * 350) / (MAX_FONT_SIZE - MIN_FONT_SIZE)) + MIN_FONT_SIZE) + FONT_UNIT}
+			if (document.getElementById) onload = function () {
+			var e, i = 1
+			while (e = document.getElementById ('cloud').getElementsByTagName ('SPAN')[i++]) 
+      {e.style.fontSize = getSize()}
+      }
+      </script>
+
+       <br style="clear:both;" />
+      </div><!--close content-->	
+    </div><!--close site_content-->	
+    <div id="footer">  
+	  <div id="footer_content">
+      </div><!--close footer_content-->	
+    </div><!--close footer-->	
+  </div><!--close main-->	
+</body>
+</html>
